@@ -1,4 +1,4 @@
-# 2502-fzu-fzu-ComputerNet-HaoZhang
+# 2502-fzu-ComputerNet-HaoZhang
 
 Record of fzu 202502 Computer Network (Instructor: HaoZhang)
 
